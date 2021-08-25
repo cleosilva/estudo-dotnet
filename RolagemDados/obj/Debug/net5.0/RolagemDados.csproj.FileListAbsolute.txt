@@ -1,0 +1,16 @@
+C:\Users\Cleo\Desktop\Coder\DIO\Projetos\RolagemDados\bin\Debug\net5.0\RolagemDados.exe
+C:\Users\Cleo\Desktop\Coder\DIO\Projetos\RolagemDados\bin\Debug\net5.0\RolagemDados.deps.json
+C:\Users\Cleo\Desktop\Coder\DIO\Projetos\RolagemDados\bin\Debug\net5.0\RolagemDados.runtimeconfig.json
+C:\Users\Cleo\Desktop\Coder\DIO\Projetos\RolagemDados\bin\Debug\net5.0\RolagemDados.runtimeconfig.dev.json
+C:\Users\Cleo\Desktop\Coder\DIO\Projetos\RolagemDados\bin\Debug\net5.0\RolagemDados.dll
+C:\Users\Cleo\Desktop\Coder\DIO\Projetos\RolagemDados\bin\Debug\net5.0\ref\RolagemDados.dll
+C:\Users\Cleo\Desktop\Coder\DIO\Projetos\RolagemDados\bin\Debug\net5.0\RolagemDados.pdb
+C:\Users\Cleo\Desktop\Coder\DIO\Projetos\RolagemDados\obj\Debug\net5.0\RolagemDados.csproj.AssemblyReference.cache
+C:\Users\Cleo\Desktop\Coder\DIO\Projetos\RolagemDados\obj\Debug\net5.0\RolagemDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cleo\Desktop\Coder\DIO\Projetos\RolagemDados\obj\Debug\net5.0\RolagemDados.AssemblyInfoInputs.cache
+C:\Users\Cleo\Desktop\Coder\DIO\Projetos\RolagemDados\obj\Debug\net5.0\RolagemDados.AssemblyInfo.cs
+C:\Users\Cleo\Desktop\Coder\DIO\Projetos\RolagemDados\obj\Debug\net5.0\RolagemDados.csproj.CoreCompileInputs.cache
+C:\Users\Cleo\Desktop\Coder\DIO\Projetos\RolagemDados\obj\Debug\net5.0\RolagemDados.dll
+C:\Users\Cleo\Desktop\Coder\DIO\Projetos\RolagemDados\obj\Debug\net5.0\ref\RolagemDados.dll
+C:\Users\Cleo\Desktop\Coder\DIO\Projetos\RolagemDados\obj\Debug\net5.0\RolagemDados.pdb
+C:\Users\Cleo\Desktop\Coder\DIO\Projetos\RolagemDados\obj\Debug\net5.0\RolagemDados.genruntimeconfig.cache
