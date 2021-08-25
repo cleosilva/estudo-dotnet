@@ -1,0 +1,16 @@
+C:\Users\Cleo\Desktop\Coder\DIO\Projetos\MsgAssinatura\bin\Debug\net5.0\MsgAssinatura.exe
+C:\Users\Cleo\Desktop\Coder\DIO\Projetos\MsgAssinatura\bin\Debug\net5.0\MsgAssinatura.deps.json
+C:\Users\Cleo\Desktop\Coder\DIO\Projetos\MsgAssinatura\bin\Debug\net5.0\MsgAssinatura.runtimeconfig.json
+C:\Users\Cleo\Desktop\Coder\DIO\Projetos\MsgAssinatura\bin\Debug\net5.0\MsgAssinatura.runtimeconfig.dev.json
+C:\Users\Cleo\Desktop\Coder\DIO\Projetos\MsgAssinatura\bin\Debug\net5.0\MsgAssinatura.dll
+C:\Users\Cleo\Desktop\Coder\DIO\Projetos\MsgAssinatura\bin\Debug\net5.0\ref\MsgAssinatura.dll
+C:\Users\Cleo\Desktop\Coder\DIO\Projetos\MsgAssinatura\bin\Debug\net5.0\MsgAssinatura.pdb
+C:\Users\Cleo\Desktop\Coder\DIO\Projetos\MsgAssinatura\obj\Debug\net5.0\MsgAssinatura.csproj.AssemblyReference.cache
+C:\Users\Cleo\Desktop\Coder\DIO\Projetos\MsgAssinatura\obj\Debug\net5.0\MsgAssinatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cleo\Desktop\Coder\DIO\Projetos\MsgAssinatura\obj\Debug\net5.0\MsgAssinatura.AssemblyInfoInputs.cache
+C:\Users\Cleo\Desktop\Coder\DIO\Projetos\MsgAssinatura\obj\Debug\net5.0\MsgAssinatura.AssemblyInfo.cs
+C:\Users\Cleo\Desktop\Coder\DIO\Projetos\MsgAssinatura\obj\Debug\net5.0\MsgAssinatura.csproj.CoreCompileInputs.cache
+C:\Users\Cleo\Desktop\Coder\DIO\Projetos\MsgAssinatura\obj\Debug\net5.0\MsgAssinatura.dll
+C:\Users\Cleo\Desktop\Coder\DIO\Projetos\MsgAssinatura\obj\Debug\net5.0\ref\MsgAssinatura.dll
+C:\Users\Cleo\Desktop\Coder\DIO\Projetos\MsgAssinatura\obj\Debug\net5.0\MsgAssinatura.pdb
+C:\Users\Cleo\Desktop\Coder\DIO\Projetos\MsgAssinatura\obj\Debug\net5.0\MsgAssinatura.genruntimeconfig.cache
