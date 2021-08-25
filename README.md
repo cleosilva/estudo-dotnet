@@ -6,3 +6,7 @@ Avaliação de de pontuação através do if / else exibindo uma mensagem de gan
 - Se dois dados resultrem o mesmo valor, será acrescido bonus de +2 pontos.
 - Se três dados resultarem o mesmo valor, será acrescido bonus de +6 pontos. 
 
+## Desafio em C# -- Exibir mensagem de expiração de assinatura
+A tarefa consistia em exibir uma mensagem para o usuário de que sua assinatura está prestes a expirar.
+Para isso, foi criado instruções de decisão para atender aos requisitos. 
+Criação de regras de desconto e avisos de expiração usando if / else if / else.
