@@ -1,0 +1,16 @@
+C:\Users\Cleo\Desktop\Coder\DIO\Projetos\AcessoAdmin\bin\Debug\net5.0\AcessoAdmin.exe
+C:\Users\Cleo\Desktop\Coder\DIO\Projetos\AcessoAdmin\bin\Debug\net5.0\AcessoAdmin.deps.json
+C:\Users\Cleo\Desktop\Coder\DIO\Projetos\AcessoAdmin\bin\Debug\net5.0\AcessoAdmin.runtimeconfig.json
+C:\Users\Cleo\Desktop\Coder\DIO\Projetos\AcessoAdmin\bin\Debug\net5.0\AcessoAdmin.runtimeconfig.dev.json
+C:\Users\Cleo\Desktop\Coder\DIO\Projetos\AcessoAdmin\bin\Debug\net5.0\AcessoAdmin.dll
+C:\Users\Cleo\Desktop\Coder\DIO\Projetos\AcessoAdmin\bin\Debug\net5.0\ref\AcessoAdmin.dll
+C:\Users\Cleo\Desktop\Coder\DIO\Projetos\AcessoAdmin\bin\Debug\net5.0\AcessoAdmin.pdb
+C:\Users\Cleo\Desktop\Coder\DIO\Projetos\AcessoAdmin\obj\Debug\net5.0\AcessoAdmin.csproj.AssemblyReference.cache
+C:\Users\Cleo\Desktop\Coder\DIO\Projetos\AcessoAdmin\obj\Debug\net5.0\AcessoAdmin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cleo\Desktop\Coder\DIO\Projetos\AcessoAdmin\obj\Debug\net5.0\AcessoAdmin.AssemblyInfoInputs.cache
+C:\Users\Cleo\Desktop\Coder\DIO\Projetos\AcessoAdmin\obj\Debug\net5.0\AcessoAdmin.AssemblyInfo.cs
+C:\Users\Cleo\Desktop\Coder\DIO\Projetos\AcessoAdmin\obj\Debug\net5.0\AcessoAdmin.csproj.CoreCompileInputs.cache
+C:\Users\Cleo\Desktop\Coder\DIO\Projetos\AcessoAdmin\obj\Debug\net5.0\AcessoAdmin.dll
+C:\Users\Cleo\Desktop\Coder\DIO\Projetos\AcessoAdmin\obj\Debug\net5.0\ref\AcessoAdmin.dll
+C:\Users\Cleo\Desktop\Coder\DIO\Projetos\AcessoAdmin\obj\Debug\net5.0\AcessoAdmin.pdb
+C:\Users\Cleo\Desktop\Coder\DIO\Projetos\AcessoAdmin\obj\Debug\net5.0\AcessoAdmin.genruntimeconfig.cache
